@@ -6,12 +6,23 @@
 
 ## Unreleased (2024-12-25)
 
+<section class="features">
+
+### Features
+
+-   [`836075d`](https://github.com/stdlib-js/stdlib/commit/836075d7019a49d806ca116492fa853382758f75) - add C ndarray interface and refactor implementation for `stats/base/drange` [(#4239)](https://github.com/stdlib-js/stdlib/pull/4239)
+
+</section>
+
+<!-- /.features -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`836075d`](https://github.com/stdlib-js/stdlib/commit/836075d7019a49d806ca116492fa853382758f75) - **feat:** add C ndarray interface and refactor implementation for `stats/base/drange` [(#4239)](https://github.com/stdlib-js/stdlib/pull/4239) _(by Aayush Khanna)_
 -   [`ad690a4`](https://github.com/stdlib-js/stdlib/commit/ad690a448fa6f7dc3bb358dbd031c9d6d9bbdb90) - **refactor:** update `stats/base/drange` native addon from C++ to C [(#4216)](https://github.com/stdlib-js/stdlib/pull/4216) _(by Vivek maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,8 +39,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Vivek maurya
